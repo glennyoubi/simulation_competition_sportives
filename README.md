@@ -1,4 +1,4 @@
-# Kouriat_Youbi_COO_Project
+# Simulation_compétitions_sportives
 
 # Equipe
 
